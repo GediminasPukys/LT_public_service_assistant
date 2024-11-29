@@ -1,8 +1,8 @@
-# :earth_americas: GDP dashboard template
+# 🇱🇹 Teisinių dokumentų asistentas
 
-A simple Streamlit app showing the GDP of different countries in the world.
+Streamlit app assisting on Lithuanian public services
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
 
 ### How to run it on your own machine
 
