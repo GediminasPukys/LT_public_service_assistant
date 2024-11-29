@@ -1,2 +1,12 @@
 streamlit
+openai
+PyMuPDF
 pandas
+openai
+tqdm
+weaviate
+weaviate-client
+langchain_openai
+numpy
+langchain_weaviate
+langchain
